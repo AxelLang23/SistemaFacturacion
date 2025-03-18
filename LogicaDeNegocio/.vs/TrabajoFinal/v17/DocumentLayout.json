@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\54349\\Desktop\\TRABAJO FINAL\\LogicaDeNegocio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2916E991-FADC-46CC-B1D7-5F2E2C24ADB4}|LogicaDeNegocio.csproj|c:\\users\\54349\\desktop\\trabajo final\\logicadenegocio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2916E991-FADC-46CC-B1D7-5F2E2C24ADB4}|LogicaDeNegocio.csproj|solutionrelative:articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4953848D-4582-4874-ACB0-FB2295945E05}|..\\InterfazDeUsuario\\InterfazDeUsuario.csproj|c:\\users\\54349\\desktop\\trabajo final\\interfazdeusuario\\acceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D7A78B-D9C3-45FD-B40B-6A4218905CA0}|..\\AccesoDatos\\AccesoDatos.csproj|c:\\users\\54349\\desktop\\trabajo final\\accesodatos\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2916E991-FADC-46CC-B1D7-5F2E2C24ADB4}|LogicaDeNegocio.csproj|C:\\Users\\54349\\Desktop\\TRABAJO FINAL\\LogicaDeNegocio\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2916E991-FADC-46CC-B1D7-5F2E2C24ADB4}|LogicaDeNegocio.csproj|solutionrelative:factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2916E991-FADC-46CC-B1D7-5F2E2C24ADB4}|LogicaDeNegocio.csproj|C:\\Users\\54349\\Desktop\\TRABAJO FINAL\\LogicaDeNegocio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2916E991-FADC-46CC-B1D7-5F2E2C24ADB4}|LogicaDeNegocio.csproj|solutionrelative:cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2916E991-FADC-46CC-B1D7-5F2E2C24ADB4}|LogicaDeNegocio.csproj|C:\\Users\\54349\\Desktop\\TRABAJO FINAL\\LogicaDeNegocio\\condicioniva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2916E991-FADC-46CC-B1D7-5F2E2C24ADB4}|LogicaDeNegocio.csproj|solutionrelative:condicioniva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Acceso.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\54349\\Desktop\\TRABAJO FINAL\\InterfazDeUsuario\\Acceso.cs",
+              "RelativeDocumentMoniker": "..\\InterfazDeUsuario\\Acceso.cs",
+              "ToolTip": "C:\\Users\\54349\\Desktop\\TRABAJO FINAL\\InterfazDeUsuario\\Acceso.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\InterfazDeUsuario\\Acceso.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:52:29.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\54349\\Desktop\\TRABAJO FINAL\\LogicaDeNegocio\\Factura.cs",
+              "RelativeDocumentMoniker": "Factura.cs",
+              "ToolTip": "C:\\Users\\54349\\Desktop\\TRABAJO FINAL\\LogicaDeNegocio\\Factura.cs",
+              "RelativeToolTip": "Factura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:37:40.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConexionBD.cs",
+              "DocumentMoniker": "C:\\Users\\54349\\Desktop\\TRABAJO FINAL\\AccesoDatos\\ConexionBD.cs",
+              "RelativeDocumentMoniker": "..\\AccesoDatos\\ConexionBD.cs",
+              "ToolTip": "C:\\Users\\54349\\Desktop\\TRABAJO FINAL\\AccesoDatos\\ConexionBD.cs",
+              "RelativeToolTip": "..\\AccesoDatos\\ConexionBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:34:44.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CondicionIVA.cs",
+              "DocumentMoniker": "C:\\Users\\54349\\Desktop\\TRABAJO FINAL\\LogicaDeNegocio\\CondicionIVA.cs",
+              "RelativeDocumentMoniker": "CondicionIVA.cs",
+              "ToolTip": "C:\\Users\\54349\\Desktop\\TRABAJO FINAL\\LogicaDeNegocio\\CondicionIVA.cs",
+              "RelativeToolTip": "CondicionIVA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:11:29.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\54349\\Desktop\\TRABAJO FINAL\\LogicaDeNegocio\\Cliente.cs",
+              "RelativeDocumentMoniker": "Cliente.cs",
+              "ToolTip": "C:\\Users\\54349\\Desktop\\TRABAJO FINAL\\LogicaDeNegocio\\Cliente.cs",
+              "RelativeToolTip": "Cliente.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:11:28.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\54349\\Desktop\\TRABAJO FINAL\\LogicaDeNegocio\\Articulo.cs",
+              "RelativeDocumentMoniker": "Articulo.cs",
+              "ToolTip": "C:\\Users\\54349\\Desktop\\TRABAJO FINAL\\LogicaDeNegocio\\Articulo.cs",
+              "RelativeToolTip": "Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:11:26.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
